@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-13T17:41:19.810Z",
+  "updatedAt": "2026-08-13T17:42:21.466Z",
   "problems": [
     {
       "frontendId": "28",
@@ -42,7 +42,7 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "path": "Leetcode/3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "sha": "85b6310df39a57273f10cc8a70e2ebba05529a05",
-          "lastSyncedAt": "2026-08-13T17:39:08.239Z"
+          "lastSyncedAt": "2026-08-13T17:42:21.466Z"
         }
       ]
     }
