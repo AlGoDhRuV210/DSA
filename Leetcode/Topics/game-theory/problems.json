@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-08-13T18:07:09.045Z",
+  "updatedAt": "2026-08-13T18:07:26.355Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -22,7 +22,7 @@
           "filename": "1140-stone-game-ii.cpp",
           "path": "Leetcode/1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "27f5ebc544937c51d5912e1e7350ec7f077a138a",
-          "lastSyncedAt": "2026-08-13T18:03:35.949Z"
+          "lastSyncedAt": "2026-08-13T18:07:26.355Z"
         }
       ]
     },
