@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T17:43:54.956Z",
+  "updatedAt": "2026-08-13T17:44:46.494Z",
   "problems": [
     {
       "frontendId": "215",
@@ -162,7 +162,7 @@
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "path": "Leetcode/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "sha": "06504588bef9573c9f2ae379566de6f6983571c4",
-          "lastSyncedAt": "2026-08-13T17:41:29.441Z"
+          "lastSyncedAt": "2026-08-13T17:44:46.494Z"
         }
       ]
     },
