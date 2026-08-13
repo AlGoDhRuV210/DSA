@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 13 |
+| 14 | 14 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
+- [dp](#dp) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (3)
 - [hashing](#hashing) (1)
@@ -54,6 +55,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1881E | [Block Sequence](https://codeforces.com/contest/1881/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1881/E%20-%20Block%20Sequence/solution.cpp) |
 
 ### geometry
 
