@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-13T17:54:53.908Z",
+  "updatedAt": "2026-08-13T18:00:21.777Z",
   "problems": [
     {
       "frontendId": "1277",
@@ -22,7 +22,7 @@
           "filename": "1277-count-square-submatrices-with-all-ones.cpp",
           "path": "Leetcode/1277-count-square-submatrices-with-all-ones/1277-count-square-submatrices-with-all-ones.cpp",
           "sha": "71f68f766f1d1ecbb5a2eadeda837566a3d7baaf",
-          "lastSyncedAt": "2026-08-13T17:54:53.908Z"
+          "lastSyncedAt": "2026-08-13T18:00:21.777Z"
         }
       ]
     }
