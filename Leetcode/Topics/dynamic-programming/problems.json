@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T17:42:21.466Z",
+  "updatedAt": "2026-08-13T17:43:11.536Z",
   "problems": [
     {
       "frontendId": "132",
@@ -82,7 +82,7 @@
           "filename": "1277-count-square-submatrices-with-all-ones.cpp",
           "path": "Leetcode/1277-count-square-submatrices-with-all-ones/1277-count-square-submatrices-with-all-ones.cpp",
           "sha": "71f68f766f1d1ecbb5a2eadeda837566a3d7baaf",
-          "lastSyncedAt": "2026-08-13T17:39:53.487Z"
+          "lastSyncedAt": "2026-08-13T17:43:11.536Z"
         }
       ]
     },
