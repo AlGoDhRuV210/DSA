@@ -4,7 +4,7 @@
     "slug": "knuth-morris-pratt-algorithm",
     "name": "Knuth–Morris–Pratt Algorithm"
   },
-  "updatedAt": "2026-08-13T17:56:58.943Z",
+  "updatedAt": "2026-08-13T17:57:57.615Z",
   "problems": [
     {
       "frontendId": "28",
@@ -82,7 +82,7 @@
           "filename": "1392-longest-happy-prefix.cpp",
           "path": "Leetcode/1392-longest-happy-prefix/1392-longest-happy-prefix.cpp",
           "sha": "3dc81cfc83ded55c0c0520cb888815af4c7e122a",
-          "lastSyncedAt": "2026-08-13T17:56:10.044Z"
+          "lastSyncedAt": "2026-08-13T17:57:57.615Z"
         }
       ]
     }
