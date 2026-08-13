@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-08-13T17:24:13.539Z",
+  "updatedAt": "2026-08-13T17:39:25.587Z",
   "problems": [
     {
       "frontendId": "208",
@@ -62,7 +62,7 @@
           "filename": "1707-maximum-xor-with-an-element-from-array.cpp",
           "path": "Leetcode/1707-maximum-xor-with-an-element-from-array/1707-maximum-xor-with-an-element-from-array.cpp",
           "sha": "1bcaa2244749b8b098802912aedc80d8c6137c10",
-          "lastSyncedAt": "2026-08-13T17:23:34.095Z"
+          "lastSyncedAt": "2026-08-13T17:39:25.587Z"
         }
       ]
     }
