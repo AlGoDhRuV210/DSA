@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T18:05:50.396Z",
+  "updatedAt": "2026-08-13T18:05:59.059Z",
   "problems": [
     {
       "frontendId": "215",
@@ -22,7 +22,7 @@
           "filename": "0215-kth-largest-element-in-an-array.cpp",
           "path": "Leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "8ad736a29441fbff7a00e962346bfd56bd47c233",
-          "lastSyncedAt": "2026-08-13T18:02:07.459Z"
+          "lastSyncedAt": "2026-08-13T18:05:59.059Z"
         }
       ]
     },
