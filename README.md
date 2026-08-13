@@ -6,36 +6,36 @@
 
 | Total Problems | Topics |
 |---|---|
-| 186 | 24 |
+| 200 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [binary search](#binary-search) (11)
-- [bitmasks](#bitmasks) (8)
-- [brute force](#brute-force) (46)
+- [binary search](#binary-search) (13)
+- [bitmasks](#bitmasks) (10)
+- [brute force](#brute-force) (49)
 - [combinatorics](#combinatorics) (5)
-- [constructive algorithms](#constructive-algorithms) (38)
-- [data structures](#data-structures) (7)
+- [constructive algorithms](#constructive-algorithms) (41)
+- [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (1)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (11)
+- [dp](#dp) (13)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (5)
+- [games](#games) (6)
 - [geometry](#geometry) (6)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (82)
+- [greedy](#greedy) (91)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (42)
-- [math](#math) (93)
-- [number theory](#number-theory) (25)
-- [schedules](#schedules) (2)
+- [implementation](#implementation) (43)
+- [math](#math) (98)
+- [number theory](#number-theory) (26)
+- [schedules](#schedules) (3)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (33)
-- [strings](#strings) (17)
-- [two pointers](#two-pointers) (13)
+- [sortings](#sortings) (35)
+- [strings](#strings) (18)
+- [two pointers](#two-pointers) (16)
 
 ---
 
@@ -51,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
+| 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1791G2 | [Teleporters (Hard Version)](https://codeforces.com/contest/1791/problem/G2) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1791/G2%20-%20Teleporters%20(Hard%20Version)/solution.cpp) |
@@ -61,6 +62,7 @@
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
 
 ### bitmasks
 
@@ -69,9 +71,11 @@
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1632B | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1632/B%20-%20Roof%20Construction/solution.cpp) |
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
 
@@ -84,6 +88,7 @@
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
+| 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1742/D%20-%20Coprime/solution.cpp) |
@@ -106,6 +111,7 @@
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
@@ -125,6 +131,7 @@
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 
 ### combinatorics
 
@@ -149,7 +156,9 @@
 | 1632B | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1632/B%20-%20Roof%20Construction/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
+| 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
@@ -165,6 +174,7 @@
 | 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
 | 2147A | [Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2147/A%20-%20Shortest%20Increasing%20Path/solution.cpp) |
 | 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.cpp) |
@@ -185,6 +195,8 @@
 |---|---------|------------|----------|
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
+| 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -208,6 +220,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
@@ -215,6 +228,7 @@
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2234D | [XOR, Expression and Two Binary Numbers](https://codeforces.com/contest/2234/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2234/D%20-%20XOR%2C%20Expression%20and%20Two%20Binary%20Numbers/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
@@ -234,6 +248,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
 ### geometry
 
@@ -267,10 +282,15 @@
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
+| 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
+| 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
+| 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
@@ -313,6 +333,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
 | 2147A | [Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2147/A%20-%20Shortest%20Increasing%20Path/solution.cpp) |
 | 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
@@ -338,6 +359,9 @@
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+| 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
 
 ### hashing
 
@@ -374,6 +398,7 @@
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
@@ -411,10 +436,13 @@
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
+| 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
@@ -446,6 +474,7 @@
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
+| 1872D | [Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1872/D%20-%20Plus%20Minus%20Permutation/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
@@ -453,6 +482,7 @@
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
@@ -512,6 +542,7 @@
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.cpp) |
@@ -526,6 +557,7 @@
 |---|---------|------------|----------|
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.cpp) |
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
 ### shortest paths
 
@@ -542,6 +574,7 @@
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
@@ -561,6 +594,7 @@
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.cpp) |
 | 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
 | 2164A | [Sequence Game](https://codeforces.com/contest/2164/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2164/A%20-%20Sequence%20Game/solution.cpp) |
@@ -579,6 +613,7 @@
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
+| 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
@@ -597,6 +632,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
+| 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
