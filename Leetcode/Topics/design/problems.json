@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design"
+  },
+  "updatedAt": "2026-08-13T17:24:13.539Z",
+  "problems": [
+    {
+      "frontendId": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "problemName": "0208-implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "folderPath": "Leetcode/0208-implement-trie-prefix-tree/",
+      "readmePath": "Leetcode/0208-implement-trie-prefix-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0208-implement-trie-prefix-tree.cpp",
+          "path": "Leetcode/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp",
+          "sha": "723a70ab58fa367acad97d9aca033f535348fac7",
+          "lastSyncedAt": "2026-08-13T17:24:13.539Z"
+        }
+      ]
+    }
+  ]
+}
