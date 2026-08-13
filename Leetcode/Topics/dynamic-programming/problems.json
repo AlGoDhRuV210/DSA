@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T17:24:36.681Z",
+  "updatedAt": "2026-08-13T17:24:46.158Z",
   "problems": [
+    {
+      "frontendId": "132",
+      "title": "Palindrome Partitioning II",
+      "slug": "palindrome-partitioning-ii",
+      "problemName": "0132-palindrome-partitioning-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+      "folderPath": "Leetcode/0132-palindrome-partitioning-ii/",
+      "readmePath": "Leetcode/0132-palindrome-partitioning-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0132-palindrome-partitioning-ii.cpp",
+          "path": "Leetcode/0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.cpp",
+          "sha": "93ff0ed85c37799396e072c888de80c881fdeb93",
+          "lastSyncedAt": "2026-08-13T17:24:46.158Z"
+        }
+      ]
+    },
     {
       "frontendId": "1043",
       "title": "Partition Array for Maximum Sum",
