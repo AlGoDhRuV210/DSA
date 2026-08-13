@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-08-13T17:54:24.321Z",
+  "updatedAt": "2026-08-13T17:54:31.121Z",
   "problems": [
     {
       "frontendId": "208",
@@ -42,7 +42,7 @@
           "filename": "0421-maximum-xor-of-two-numbers-in-an-array.cpp",
           "path": "Leetcode/0421-maximum-xor-of-two-numbers-in-an-array/0421-maximum-xor-of-two-numbers-in-an-array.cpp",
           "sha": "c722b117cbd0c3c864b0151c8734f3478d568fcf",
-          "lastSyncedAt": "2026-08-13T17:45:57.472Z"
+          "lastSyncedAt": "2026-08-13T17:54:31.121Z"
         }
       ]
     },
