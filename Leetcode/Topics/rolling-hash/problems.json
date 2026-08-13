@@ -4,7 +4,7 @@
     "slug": "rolling-hash",
     "name": "Rolling Hash"
   },
-  "updatedAt": "2026-08-13T17:56:21.353Z",
+  "updatedAt": "2026-08-13T17:57:57.615Z",
   "problems": [
     {
       "frontendId": "214",
@@ -42,7 +42,7 @@
           "filename": "1392-longest-happy-prefix.cpp",
           "path": "Leetcode/1392-longest-happy-prefix/1392-longest-happy-prefix.cpp",
           "sha": "3dc81cfc83ded55c0c0520cb888815af4c7e122a",
-          "lastSyncedAt": "2026-08-13T17:56:10.044Z"
+          "lastSyncedAt": "2026-08-13T17:57:57.615Z"
         }
       ]
     }
