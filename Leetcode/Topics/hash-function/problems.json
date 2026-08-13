@@ -4,7 +4,7 @@
     "slug": "hash-function",
     "name": "Hash Function"
   },
-  "updatedAt": "2026-08-13T18:01:40.425Z",
+  "updatedAt": "2026-08-13T18:02:20.865Z",
   "problems": [
     {
       "frontendId": "214",
@@ -42,7 +42,7 @@
           "filename": "1392-longest-happy-prefix.cpp",
           "path": "Leetcode/1392-longest-happy-prefix/1392-longest-happy-prefix.cpp",
           "sha": "3dc81cfc83ded55c0c0520cb888815af4c7e122a",
-          "lastSyncedAt": "2026-08-13T18:01:40.425Z"
+          "lastSyncedAt": "2026-08-13T18:02:20.865Z"
         }
       ]
     }
