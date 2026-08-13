@@ -4,7 +4,7 @@
     "slug": "rolling-hash",
     "name": "Rolling Hash"
   },
-  "updatedAt": "2026-08-13T17:48:39.740Z",
+  "updatedAt": "2026-08-13T17:48:52.865Z",
   "problems": [
     {
       "frontendId": "214",
@@ -22,7 +22,7 @@
           "filename": "0214-shortest-palindrome.cpp",
           "path": "Leetcode/0214-shortest-palindrome/0214-shortest-palindrome.cpp",
           "sha": "840a3b90d1c0062d1fe21f1f1c60dc5cf361da81",
-          "lastSyncedAt": "2026-08-13T17:44:20.176Z"
+          "lastSyncedAt": "2026-08-13T17:48:52.865Z"
         }
       ]
     },
