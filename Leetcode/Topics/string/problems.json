@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T17:21:50.390Z",
+  "updatedAt": "2026-08-13T17:23:00.788Z",
   "problems": [
     {
       "frontendId": "28",
@@ -123,6 +123,26 @@
           "path": "Leetcode/2484-count-palindromic-subsequences/2484-count-palindromic-subsequences.cpp",
           "sha": "3ca7f7d9bdb3da61a1b1c9936fdee832ef84e905",
           "lastSyncedAt": "2026-08-13T17:20:32.386Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3302",
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "slug": "find-the-lexicographically-smallest-valid-sequence",
+      "problemName": "3302-find-the-lexicographically-smallest-valid-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/",
+      "folderPath": "Leetcode/3302-find-the-lexicographically-smallest-valid-sequence/",
+      "readmePath": "Leetcode/3302-find-the-lexicographically-smallest-valid-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3302-find-the-lexicographically-smallest-valid-sequence.cpp",
+          "path": "Leetcode/3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
+          "sha": "85b6310df39a57273f10cc8a70e2ebba05529a05",
+          "lastSyncedAt": "2026-08-13T17:23:00.788Z"
         }
       ]
     }
