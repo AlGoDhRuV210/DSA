@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T17:57:13.894Z",
+  "updatedAt": "2026-08-13T17:57:51.473Z",
   "problems": [
     {
       "frontendId": "132",
@@ -122,7 +122,7 @@
           "filename": "2484-count-palindromic-subsequences.cpp",
           "path": "Leetcode/2484-count-palindromic-subsequences/2484-count-palindromic-subsequences.cpp",
           "sha": "3ca7f7d9bdb3da61a1b1c9936fdee832ef84e905",
-          "lastSyncedAt": "2026-08-13T17:56:05.753Z"
+          "lastSyncedAt": "2026-08-13T17:57:51.473Z"
         }
       ]
     },
