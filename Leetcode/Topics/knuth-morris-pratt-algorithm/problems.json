@@ -4,8 +4,28 @@
     "slug": "knuth-morris-pratt-algorithm",
     "name": "Knuth–Morris–Pratt Algorithm"
   },
-  "updatedAt": "2026-08-13T17:21:04.049Z",
+  "updatedAt": "2026-08-13T17:21:20.674Z",
   "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
+          "path": "Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
+          "sha": "222c1eb58c4e03687b84e930515da45a68b99333",
+          "lastSyncedAt": "2026-08-13T17:21:20.674Z"
+        }
+      ]
+    },
     {
       "frontendId": "214",
       "title": "Shortest Palindrome",
