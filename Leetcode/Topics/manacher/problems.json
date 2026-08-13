@@ -4,7 +4,7 @@
     "slug": "manacher",
     "name": "Manacher"
   },
-  "updatedAt": "2026-08-13T17:48:52.865Z",
+  "updatedAt": "2026-08-13T17:52:51.711Z",
   "problems": [
     {
       "frontendId": "214",
@@ -22,7 +22,7 @@
           "filename": "0214-shortest-palindrome.cpp",
           "path": "Leetcode/0214-shortest-palindrome/0214-shortest-palindrome.cpp",
           "sha": "840a3b90d1c0062d1fe21f1f1c60dc5cf361da81",
-          "lastSyncedAt": "2026-08-13T17:48:52.865Z"
+          "lastSyncedAt": "2026-08-13T17:52:51.711Z"
         }
       ]
     }
