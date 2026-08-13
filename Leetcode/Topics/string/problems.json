@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T18:07:07.771Z",
+  "updatedAt": "2026-08-13T18:07:30.315Z",
   "problems": [
     {
       "frontendId": "28",
@@ -182,7 +182,7 @@
           "filename": "2484-count-palindromic-subsequences.cpp",
           "path": "Leetcode/2484-count-palindromic-subsequences/2484-count-palindromic-subsequences.cpp",
           "sha": "3ca7f7d9bdb3da61a1b1c9936fdee832ef84e905",
-          "lastSyncedAt": "2026-08-13T18:06:09.462Z"
+          "lastSyncedAt": "2026-08-13T18:07:30.315Z"
         }
       ]
     },
