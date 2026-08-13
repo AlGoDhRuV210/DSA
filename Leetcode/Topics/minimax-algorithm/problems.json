@@ -4,7 +4,7 @@
     "slug": "minimax-algorithm",
     "name": "Minimax"
   },
-  "updatedAt": "2026-08-13T17:41:55.561Z",
+  "updatedAt": "2026-08-13T17:42:08.777Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -22,7 +22,7 @@
           "filename": "1140-stone-game-ii.cpp",
           "path": "Leetcode/1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "27f5ebc544937c51d5912e1e7350ec7f077a138a",
-          "lastSyncedAt": "2026-08-13T17:38:55.578Z"
+          "lastSyncedAt": "2026-08-13T17:42:08.777Z"
         }
       ]
     },
