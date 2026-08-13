@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T17:44:20.176Z",
+  "updatedAt": "2026-08-13T17:44:33.362Z",
   "problems": [
     {
       "frontendId": "28",
@@ -22,7 +22,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "path": "Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "222c1eb58c4e03687b84e930515da45a68b99333",
-          "lastSyncedAt": "2026-08-13T17:41:19.810Z"
+          "lastSyncedAt": "2026-08-13T17:44:33.362Z"
         }
       ]
     },
