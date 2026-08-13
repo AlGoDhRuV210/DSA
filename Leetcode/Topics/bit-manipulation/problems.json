@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-13T17:42:45.387Z",
+  "updatedAt": "2026-08-13T17:45:51.856Z",
   "problems": [
     {
       "frontendId": "421",
@@ -42,7 +42,7 @@
           "filename": "1707-maximum-xor-with-an-element-from-array.cpp",
           "path": "Leetcode/1707-maximum-xor-with-an-element-from-array/1707-maximum-xor-with-an-element-from-array.cpp",
           "sha": "1bcaa2244749b8b098802912aedc80d8c6137c10",
-          "lastSyncedAt": "2026-08-13T17:42:36.198Z"
+          "lastSyncedAt": "2026-08-13T17:45:51.856Z"
         }
       ]
     }
