@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T17:22:43.824Z",
+  "updatedAt": "2026-08-13T17:23:34.095Z",
   "problems": [
     {
       "frontendId": "215",
@@ -43,6 +43,26 @@
           "path": "Leetcode/1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "27f5ebc544937c51d5912e1e7350ec7f077a138a",
           "lastSyncedAt": "2026-08-13T17:22:43.824Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1707",
+      "title": "Maximum XOR With an Element From Array",
+      "slug": "maximum-xor-with-an-element-from-array",
+      "problemName": "1707-maximum-xor-with-an-element-from-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+      "folderPath": "Leetcode/1707-maximum-xor-with-an-element-from-array/",
+      "readmePath": "Leetcode/1707-maximum-xor-with-an-element-from-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1707-maximum-xor-with-an-element-from-array.cpp",
+          "path": "Leetcode/1707-maximum-xor-with-an-element-from-array/1707-maximum-xor-with-an-element-from-array.cpp",
+          "sha": "1bcaa2244749b8b098802912aedc80d8c6137c10",
+          "lastSyncedAt": "2026-08-13T17:23:34.095Z"
         }
       ]
     },
