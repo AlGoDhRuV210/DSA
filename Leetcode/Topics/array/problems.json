@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T17:20:13.491Z",
+  "updatedAt": "2026-08-13T17:21:37.054Z",
   "problems": [
     {
       "frontendId": "215",
@@ -43,6 +43,26 @@
           "path": "Leetcode/2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "f9a91e7e047cb7d3c849d87946948a7274b6dd82",
           "lastSyncedAt": "2026-08-13T17:19:55.954Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2958",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "problemName": "2958-length-of-longest-subarray-with-at-most-k-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+      "folderPath": "Leetcode/2958-length-of-longest-subarray-with-at-most-k-frequency/",
+      "readmePath": "Leetcode/2958-length-of-longest-subarray-with-at-most-k-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
+          "path": "Leetcode/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
+          "sha": "06504588bef9573c9f2ae379566de6f6983571c4",
+          "lastSyncedAt": "2026-08-13T17:21:37.054Z"
         }
       ]
     }
