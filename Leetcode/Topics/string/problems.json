@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T17:23:59.292Z",
+  "updatedAt": "2026-08-13T17:24:13.539Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,6 +23,26 @@
           "path": "Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "222c1eb58c4e03687b84e930515da45a68b99333",
           "lastSyncedAt": "2026-08-13T17:21:20.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "problemName": "0208-implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "folderPath": "Leetcode/0208-implement-trie-prefix-tree/",
+      "readmePath": "Leetcode/0208-implement-trie-prefix-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0208-implement-trie-prefix-tree.cpp",
+          "path": "Leetcode/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp",
+          "sha": "723a70ab58fa367acad97d9aca033f535348fac7",
+          "lastSyncedAt": "2026-08-13T17:24:13.539Z"
         }
       ]
     },
