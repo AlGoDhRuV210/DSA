@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T17:19:55.954Z",
+  "updatedAt": "2026-08-13T17:20:32.386Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -23,6 +23,26 @@
           "path": "Leetcode/2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "f9a91e7e047cb7d3c849d87946948a7274b6dd82",
           "lastSyncedAt": "2026-08-13T17:19:55.954Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2484",
+      "title": "Count Palindromic Subsequences",
+      "slug": "count-palindromic-subsequences",
+      "problemName": "2484-count-palindromic-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-palindromic-subsequences/",
+      "folderPath": "Leetcode/2484-count-palindromic-subsequences/",
+      "readmePath": "Leetcode/2484-count-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2484-count-palindromic-subsequences.cpp",
+          "path": "Leetcode/2484-count-palindromic-subsequences/2484-count-palindromic-subsequences.cpp",
+          "sha": "3ca7f7d9bdb3da61a1b1c9936fdee832ef84e905",
+          "lastSyncedAt": "2026-08-13T17:20:32.386Z"
         }
       ]
     }
