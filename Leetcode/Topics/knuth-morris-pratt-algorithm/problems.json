@@ -4,7 +4,7 @@
     "slug": "knuth-morris-pratt-algorithm",
     "name": "Knuth–Morris–Pratt Algorithm"
   },
-  "updatedAt": "2026-08-13T17:37:54.418Z",
+  "updatedAt": "2026-08-13T17:38:07.017Z",
   "problems": [
     {
       "frontendId": "28",
@@ -22,7 +22,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "path": "Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "222c1eb58c4e03687b84e930515da45a68b99333",
-          "lastSyncedAt": "2026-08-13T17:21:20.674Z"
+          "lastSyncedAt": "2026-08-13T17:38:07.017Z"
         }
       ]
     },
