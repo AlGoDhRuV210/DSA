@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T17:24:25.994Z",
+  "updatedAt": "2026-08-13T17:24:36.681Z",
   "problems": [
+    {
+      "frontendId": "1043",
+      "title": "Partition Array for Maximum Sum",
+      "slug": "partition-array-for-maximum-sum",
+      "problemName": "1043-partition-array-for-maximum-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+      "folderPath": "Leetcode/1043-partition-array-for-maximum-sum/",
+      "readmePath": "Leetcode/1043-partition-array-for-maximum-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1043-partition-array-for-maximum-sum.cpp",
+          "path": "Leetcode/1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.cpp",
+          "sha": "37edb92a059e47e8c109c41bf734432c755acc5d",
+          "lastSyncedAt": "2026-08-13T17:24:36.681Z"
+        }
+      ]
+    },
     {
       "frontendId": "1140",
       "title": "Stone Game II",
