@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-13T18:08:22.860Z",
+  "updatedAt": "2026-08-13T18:14:11.540Z",
   "problems": [
     {
       "frontendId": "921",
@@ -42,7 +42,7 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "path": "Leetcode/3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "sha": "85b6310df39a57273f10cc8a70e2ebba05529a05",
-          "lastSyncedAt": "2026-08-13T18:07:42.730Z"
+          "lastSyncedAt": "2026-08-13T18:14:11.540Z"
         }
       ]
     },
