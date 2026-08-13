@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T17:23:00.788Z",
+  "updatedAt": "2026-08-13T17:24:25.994Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -23,6 +23,26 @@
           "path": "Leetcode/1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "27f5ebc544937c51d5912e1e7350ec7f077a138a",
           "lastSyncedAt": "2026-08-13T17:22:43.824Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1277",
+      "title": "Count Square Submatrices with All Ones",
+      "slug": "count-square-submatrices-with-all-ones",
+      "problemName": "1277-count-square-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+      "folderPath": "Leetcode/1277-count-square-submatrices-with-all-ones/",
+      "readmePath": "Leetcode/1277-count-square-submatrices-with-all-ones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1277-count-square-submatrices-with-all-ones.cpp",
+          "path": "Leetcode/1277-count-square-submatrices-with-all-ones/1277-count-square-submatrices-with-all-ones.cpp",
+          "sha": "71f68f766f1d1ecbb5a2eadeda837566a3d7baaf",
+          "lastSyncedAt": "2026-08-13T17:24:25.994Z"
         }
       ]
     },
