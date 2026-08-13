@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T17:19:31.712Z",
-  "problems": []
+  "updatedAt": "2026-08-13T17:20:32.386Z",
+  "problems": [
+    {
+      "frontendId": "2484",
+      "title": "Count Palindromic Subsequences",
+      "slug": "count-palindromic-subsequences",
+      "problemName": "2484-count-palindromic-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-palindromic-subsequences/",
+      "folderPath": "Leetcode/2484-count-palindromic-subsequences/",
+      "readmePath": "Leetcode/2484-count-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2484-count-palindromic-subsequences.cpp",
+          "path": "Leetcode/2484-count-palindromic-subsequences/2484-count-palindromic-subsequences.cpp",
+          "sha": "3ca7f7d9bdb3da61a1b1c9936fdee832ef84e905",
+          "lastSyncedAt": "2026-08-13T17:20:32.386Z"
+        }
+      ]
+    }
+  ]
 }
