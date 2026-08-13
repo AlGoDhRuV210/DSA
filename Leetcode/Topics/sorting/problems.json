@@ -4,6 +4,27 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-13T17:19:31.712Z",
-  "problems": []
+  "updatedAt": "2026-08-13T17:20:13.491Z",
+  "problems": [
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "Leetcode/0215-kth-largest-element-in-an-array/",
+      "readmePath": "Leetcode/0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0215-kth-largest-element-in-an-array.cpp",
+          "path": "Leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
+          "sha": "8ad736a29441fbff7a00e962346bfd56bd47c233",
+          "lastSyncedAt": "2026-08-13T17:20:13.491Z"
+        }
+      ]
+    }
+  ]
 }
