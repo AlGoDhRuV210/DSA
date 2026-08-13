@@ -4,7 +4,7 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-08-13T18:05:50.396Z",
+  "updatedAt": "2026-08-13T18:07:07.771Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -22,7 +22,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.cpp",
           "path": "Leetcode/2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "f9a91e7e047cb7d3c849d87946948a7274b6dd82",
-          "lastSyncedAt": "2026-08-13T18:05:50.396Z"
+          "lastSyncedAt": "2026-08-13T18:07:07.771Z"
         }
       ]
     }
