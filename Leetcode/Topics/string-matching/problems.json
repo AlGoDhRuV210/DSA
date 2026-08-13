@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string-matching",
+    "name": "String Matching"
+  },
+  "updatedAt": "2026-08-13T17:20:39.707Z",
+  "problems": [
+    {
+      "frontendId": "1392",
+      "title": "Longest Happy Prefix",
+      "slug": "longest-happy-prefix",
+      "problemName": "1392-longest-happy-prefix",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-happy-prefix/",
+      "folderPath": "Leetcode/1392-longest-happy-prefix/",
+      "readmePath": "Leetcode/1392-longest-happy-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1392-longest-happy-prefix.cpp",
+          "path": "Leetcode/1392-longest-happy-prefix/1392-longest-happy-prefix.cpp",
+          "sha": "3dc81cfc83ded55c0c0520cb888815af4c7e122a",
+          "lastSyncedAt": "2026-08-13T17:20:39.707Z"
+        }
+      ]
+    }
+  ]
+}
