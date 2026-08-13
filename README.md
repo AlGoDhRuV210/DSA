@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 350 | 31 |
+| 351 | 31 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (3)
-- [binary search](#binary-search) (33)
+- [binary search](#binary-search) (34)
 - [bitmasks](#bitmasks) (20)
 - [brute force](#brute-force) (71)
 - [combinatorics](#combinatorics) (13)
-- [constructive algorithms](#constructive-algorithms) (65)
+- [constructive algorithms](#constructive-algorithms) (66)
 - [data structures](#data-structures) (36)
 - [dfs and similar](#dfs-and-similar) (10)
 - [divide and conquer](#divide-and-conquer) (3)
@@ -30,7 +30,7 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (166)
+- [greedy](#greedy) (167)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (65)
 - [interactive](#interactive) (1)
@@ -39,10 +39,10 @@
 - [number theory](#number-theory) (50)
 - [schedules](#schedules) (3)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (72)
+- [sortings](#sortings) (73)
 - [strings](#strings) (28)
 - [trees](#trees) (6)
-- [two pointers](#two-pointers) (35)
+- [two pointers](#two-pointers) (36)
 
 ---
 
@@ -88,6 +88,7 @@
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
 | 1883G1 | [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1883/G1%20-%20Dances%20(Easy%20version)/solution.cpp) |
+| 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
@@ -259,6 +260,7 @@
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
 | 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
+| 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
@@ -564,6 +566,7 @@
 | 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
 | 1879C | [Make it Alternating](https://codeforces.com/contest/1879/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1879/C%20-%20Make%20it%20Alternating/solution.cpp) |
 | 1883G1 | [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1883/G1%20-%20Dances%20(Easy%20version)/solution.cpp) |
+| 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
@@ -1007,6 +1010,7 @@
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
+| 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
@@ -1110,6 +1114,7 @@
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1883G1 | [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1883/G1%20-%20Dances%20(Easy%20version)/solution.cpp) |
+| 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
