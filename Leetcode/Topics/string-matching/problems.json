@@ -4,7 +4,7 @@
     "slug": "string-matching",
     "name": "String Matching"
   },
-  "updatedAt": "2026-08-13T17:44:33.362Z",
+  "updatedAt": "2026-08-13T17:44:53.134Z",
   "problems": [
     {
       "frontendId": "28",
@@ -62,7 +62,7 @@
           "filename": "0686-repeated-string-match.cpp",
           "path": "Leetcode/0686-repeated-string-match/0686-repeated-string-match.cpp",
           "sha": "51565e9e5e6617dafca89440a33ab2923f77e726",
-          "lastSyncedAt": "2026-08-13T17:41:39.886Z"
+          "lastSyncedAt": "2026-08-13T17:44:53.134Z"
         }
       ]
     },
