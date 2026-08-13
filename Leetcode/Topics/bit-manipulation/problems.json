@@ -4,6 +4,27 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-13T17:19:31.712Z",
-  "problems": []
+  "updatedAt": "2026-08-13T17:23:34.095Z",
+  "problems": [
+    {
+      "frontendId": "1707",
+      "title": "Maximum XOR With an Element From Array",
+      "slug": "maximum-xor-with-an-element-from-array",
+      "problemName": "1707-maximum-xor-with-an-element-from-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+      "folderPath": "Leetcode/1707-maximum-xor-with-an-element-from-array/",
+      "readmePath": "Leetcode/1707-maximum-xor-with-an-element-from-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1707-maximum-xor-with-an-element-from-array.cpp",
+          "path": "Leetcode/1707-maximum-xor-with-an-element-from-array/1707-maximum-xor-with-an-element-from-array.cpp",
+          "sha": "1bcaa2244749b8b098802912aedc80d8c6137c10",
+          "lastSyncedAt": "2026-08-13T17:23:34.095Z"
+        }
+      ]
+    }
+  ]
 }
