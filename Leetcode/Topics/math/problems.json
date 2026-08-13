@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-13T17:54:38.437Z",
+  "updatedAt": "2026-08-13T17:57:13.894Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -42,7 +42,7 @@
           "filename": "1510-stone-game-iv.cpp",
           "path": "Leetcode/1510-stone-game-iv/1510-stone-game-iv.cpp",
           "sha": "a040d18d739cfe5db2931e34ed0beff6961aa787",
-          "lastSyncedAt": "2026-08-13T17:53:39.062Z"
+          "lastSyncedAt": "2026-08-13T17:57:13.894Z"
         }
       ]
     },
