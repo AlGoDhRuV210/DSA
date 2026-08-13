@@ -4,7 +4,7 @@
     "slug": "boyer-moore-string-search-algorithm",
     "name": "Boyer–Moore String-Search Algorithm"
   },
-  "updatedAt": "2026-08-13T17:21:20.674Z",
+  "updatedAt": "2026-08-13T17:21:50.390Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,6 +23,26 @@
           "path": "Leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "222c1eb58c4e03687b84e930515da45a68b99333",
           "lastSyncedAt": "2026-08-13T17:21:20.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "686",
+      "title": "Repeated String Match",
+      "slug": "repeated-string-match",
+      "problemName": "0686-repeated-string-match",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+      "folderPath": "Leetcode/0686-repeated-string-match/",
+      "readmePath": "Leetcode/0686-repeated-string-match/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0686-repeated-string-match.cpp",
+          "path": "Leetcode/0686-repeated-string-match/0686-repeated-string-match.cpp",
+          "sha": "51565e9e5e6617dafca89440a33ab2923f77e726",
+          "lastSyncedAt": "2026-08-13T17:21:50.390Z"
         }
       ]
     }
