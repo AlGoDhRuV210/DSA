@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T18:18:35.345Z",
+  "updatedAt": "2026-08-13T18:18:41.981Z",
   "problems": [
     {
       "frontendId": "215",
@@ -62,7 +62,7 @@
           "filename": "1043-partition-array-for-maximum-sum.cpp",
           "path": "Leetcode/1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.cpp",
           "sha": "37edb92a059e47e8c109c41bf734432c755acc5d",
-          "lastSyncedAt": "2026-08-13T18:15:04.135Z"
+          "lastSyncedAt": "2026-08-13T18:18:41.981Z"
         }
       ]
     },
