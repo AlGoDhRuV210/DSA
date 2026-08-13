@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-13T17:54:53.908Z",
+  "updatedAt": "2026-08-13T17:55:02.622Z",
   "problems": [
     {
       "frontendId": "132",
@@ -42,7 +42,7 @@
           "filename": "1043-partition-array-for-maximum-sum.cpp",
           "path": "Leetcode/1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.cpp",
           "sha": "37edb92a059e47e8c109c41bf734432c755acc5d",
-          "lastSyncedAt": "2026-08-13T17:46:26.915Z"
+          "lastSyncedAt": "2026-08-13T17:55:02.622Z"
         }
       ]
     },
