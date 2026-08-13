@@ -4,7 +4,7 @@
     "slug": "knuth-morris-pratt-algorithm",
     "name": "Knuth–Morris–Pratt Algorithm"
   },
-  "updatedAt": "2026-08-13T17:41:39.886Z",
+  "updatedAt": "2026-08-13T17:44:20.176Z",
   "problems": [
     {
       "frontendId": "28",
@@ -42,7 +42,7 @@
           "filename": "0214-shortest-palindrome.cpp",
           "path": "Leetcode/0214-shortest-palindrome/0214-shortest-palindrome.cpp",
           "sha": "840a3b90d1c0062d1fe21f1f1c60dc5cf361da81",
-          "lastSyncedAt": "2026-08-13T17:41:09.094Z"
+          "lastSyncedAt": "2026-08-13T17:44:20.176Z"
         }
       ]
     },
