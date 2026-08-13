@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-13T17:23:59.292Z",
+  "updatedAt": "2026-08-13T17:39:37.770Z",
   "problems": [
     {
       "frontendId": "3348",
@@ -22,7 +22,7 @@
           "filename": "3348-smallest-divisible-digit-product-ii.cpp",
           "path": "Leetcode/3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
           "sha": "4314e76da06281206bac675d0d678545b3b85f9e",
-          "lastSyncedAt": "2026-08-13T17:23:59.292Z"
+          "lastSyncedAt": "2026-08-13T17:39:37.770Z"
         }
       ]
     }
