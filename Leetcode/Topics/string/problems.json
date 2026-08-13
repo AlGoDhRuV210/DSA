@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T18:06:12.929Z",
+  "updatedAt": "2026-08-13T18:06:24.246Z",
   "problems": [
     {
       "frontendId": "28",
@@ -82,7 +82,7 @@
           "filename": "0214-shortest-palindrome.cpp",
           "path": "Leetcode/0214-shortest-palindrome/0214-shortest-palindrome.cpp",
           "sha": "840a3b90d1c0062d1fe21f1f1c60dc5cf361da81",
-          "lastSyncedAt": "2026-08-13T18:02:33.805Z"
+          "lastSyncedAt": "2026-08-13T18:06:24.246Z"
         }
       ]
     },
