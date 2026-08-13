@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "zero-sum-game",
+    "name": "Zero-Sum Game"
+  },
+  "updatedAt": "2026-08-13T17:22:12.783Z",
+  "problems": [
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "Leetcode/1510-stone-game-iv/",
+      "readmePath": "Leetcode/1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1510-stone-game-iv.cpp",
+          "path": "Leetcode/1510-stone-game-iv/1510-stone-game-iv.cpp",
+          "sha": "a040d18d739cfe5db2931e34ed0beff6961aa787",
+          "lastSyncedAt": "2026-08-13T17:22:12.783Z"
+        }
+      ]
+    }
+  ]
+}
