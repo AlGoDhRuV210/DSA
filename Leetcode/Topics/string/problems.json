@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T17:46:11.241Z",
+  "updatedAt": "2026-08-13T17:46:31.780Z",
   "problems": [
     {
       "frontendId": "28",
@@ -42,7 +42,7 @@
           "filename": "0132-palindrome-partitioning-ii.cpp",
           "path": "Leetcode/0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.cpp",
           "sha": "93ff0ed85c37799396e072c888de80c881fdeb93",
-          "lastSyncedAt": "2026-08-13T17:43:22.942Z"
+          "lastSyncedAt": "2026-08-13T17:46:31.780Z"
         }
       ]
     },
