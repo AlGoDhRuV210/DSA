@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "manacher",
+    "name": "Manacher"
+  },
+  "updatedAt": "2026-08-13T17:21:04.049Z",
+  "problems": [
+    {
+      "frontendId": "214",
+      "title": "Shortest Palindrome",
+      "slug": "shortest-palindrome",
+      "problemName": "0214-shortest-palindrome",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+      "folderPath": "Leetcode/0214-shortest-palindrome/",
+      "readmePath": "Leetcode/0214-shortest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0214-shortest-palindrome.cpp",
+          "path": "Leetcode/0214-shortest-palindrome/0214-shortest-palindrome.cpp",
+          "sha": "840a3b90d1c0062d1fe21f1f1c60dc5cf361da81",
+          "lastSyncedAt": "2026-08-13T17:21:04.049Z"
+        }
+      ]
+    }
+  ]
+}
