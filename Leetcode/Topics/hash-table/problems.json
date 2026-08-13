@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-13T18:18:09.546Z",
+  "updatedAt": "2026-08-13T18:18:27.032Z",
   "problems": [
     {
       "frontendId": "208",
@@ -22,7 +22,7 @@
           "filename": "0208-implement-trie-prefix-tree.cpp",
           "path": "Leetcode/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.cpp",
           "sha": "723a70ab58fa367acad97d9aca033f535348fac7",
-          "lastSyncedAt": "2026-08-13T18:14:49.764Z"
+          "lastSyncedAt": "2026-08-13T18:18:27.032Z"
         }
       ]
     },
