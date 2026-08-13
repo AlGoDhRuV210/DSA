@@ -1,18 +1,105 @@
-<h2><a href="https://codeforces.com/contest/2214/problem/B" target="_blank" rel="noopener noreferrer">2214B — Are You Smiling?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | Unrated |
-| **Language** | C++23 (GCC 14-64, msys2) |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 2214B](https://codeforces.com/contest/2214/problem/B) |
-
-## Topics
-`*special` `strings`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">B. Are You Smiling?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Show us a smile! 😁</p></div><div class="output-specification"><div class="section-title">Output</div><p>For a properly chosen $$$\mathrm{?}$$$, the following equation holds: $$$\mathrm{U} + \mathrm{?} = \mathrm{HAPPY}$$$.</p><p>Output $$$\mathrm{?}$$$, a string consisting of uppercase letters and numbers. </p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id004858335945724851" id="id005444670569671015" class="input-output-copier">Copy</div></div><pre id="id004858335945724851">show us your smile!
-</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0019629630891488448" id="id0034436584165208395" class="input-output-copier">Copy</div></div><pre id="id0019629630891488448">     </pre></div></div></div>
+#define _USE_MATH_DEFINES
+#include <iostream>
+#include <iomanip>
+#include <vector>
+#include <algorithm>
+#include <cmath>
+#include <cstring>
+#include <string>
+#include <map>
+#include <unordered_map>
+#include <set>
+#include <unordered_set>
+#include <queue>
+#include <stack>
+#include <deque>
+#include <numeric>
+#include <limits>
+#include <functional>
+#include <bitset>
+#include <tuple>
+#include <complex>
+#include <math.h>
+#define f(i,n) for (int i = 0; i < n; i++)
+#define f1(i,a,b) for (int i = a; i <= b; i++)
+#define f2(i,a,b,c) for (int i = a; i <= b; i += c)
+#define vi vector<long long>
+#define vs vector<string>
+#define pii pair<int, int>
+#define vpii vector<PII>
+#define mii map<int, int>
+#define si set<int>
+#define pb push_back
+#define all(x) x.begin(), x.end()
+#define asort(x) sort(all(x))
+#define ll long long
+#define double long double
+ 
+using namespace std;
+ 
+ 
+const int MOD1 = 1000000007;
+const int MOD2 = 998244353;
+ 
+typedef complex<int> P;
+#define X real()
+#define Y imag()
+ 
+class DisjointSet {
+    vector<int> rank, parent, size;
+public:
+    DisjointSet(int n) {
+        rank.resize(n + 1, 0);
+        parent.resize(n + 1);
+        size.resize(n + 1, 1);
+        for (int i = 0; i <= n; i++) parent[i] = i;
+    }
+    int findUPar(int node) {
+        if (node == parent[node]) return node;
+        return parent[node] = findUPar(parent[node]);
+    }
+    void unionByRank(int u, int v) {
+        u = findUPar(u);
+        v = findUPar(v);
+        if (u == v) return;
+        if (rank[u] < rank[v]) parent[u] = v;
+        else if (rank[v] < rank[u]) parent[v] = u;
+        else parent[v] = u, rank[u]++;
+    }
+    void unionBySize(int u, int v) {
+        u = findUPar(u);
+        v = findUPar(v);
+        if (u == v) return;
+        if (size[u] < size[v]) parent[u] = v, size[v] += size[u];
+        else parent[v] = u, size[u] += size[v];
+    }
+    int getsize(int u) { return size[findUPar(u)]; }
+};
+ 
+int extended_euclidean(int a, int b, int &x, int &y) {
+    if (b == 0) { x = 1; y = 0; return a; }
+    int x1, y1;
+    int d = extended_euclidean(b, a % b, x1, y1);
+    x = y1;
+    y = x1 - y1 * (a / b);
+    return d;
+}
+ 
+int modular_inverse(int a, int m) {
+    int x, y;
+    int g = extended_euclidean(a, m, x, y);
+    if (g != 1) return -1;
+    return (x % m + m) % m;
+}
+ 
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+int n = 1&2&6;
+ 
+cout<<"1F601";
+ 
+        
+    
+ return 0; 
+}
