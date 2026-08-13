@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T18:17:46.461Z",
+  "updatedAt": "2026-08-13T18:17:55.044Z",
   "problems": [
     {
       "frontendId": "28",
@@ -122,7 +122,7 @@
           "filename": "0921-minimum-add-to-make-parentheses-valid.cpp",
           "path": "Leetcode/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
           "sha": "34b93eeba80ec38eb5a55467d1bcf5d2613010c6",
-          "lastSyncedAt": "2026-08-13T18:14:19.592Z"
+          "lastSyncedAt": "2026-08-13T18:17:55.044Z"
         }
       ]
     },
