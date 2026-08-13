@@ -6,21 +6,121 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 13 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [dp](#dp) (1)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [geometry](#geometry) (2)
+- [greedy](#greedy) (3)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (3)
+- [math](#math) (7)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (3)
+- [strings](#strings) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
-### dp
+### binary search
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1881E | [Block Sequence](https://codeforces.com/contest/1881/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1881/E%20-%20Block%20Sequence/solution.cpp) |
+| 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
+| 2148B | [Lasers](https://codeforces.com/contest/2148/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/B%20-%20Lasers/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.cpp) |
+| 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
+| 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
+| 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
+| 2151A | [Incremental Subarray](https://codeforces.com/contest/2151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2151/A%20-%20Incremental%20Subarray/solution.cpp) |
+| 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.cpp) |
+| 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2151A | [Incremental Subarray](https://codeforces.com/contest/2151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2151/A%20-%20Incremental%20Subarray/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148E | [Split](https://codeforces.com/contest/2148/problem/E) | 1200 | [C++20 (GCC 13-64)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2148/E%20-%20Split/solution.cpp) |
 
 ---
 
