@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-13T17:39:47.003Z",
+  "updatedAt": "2026-08-13T17:41:29.441Z",
   "problems": [
     {
       "frontendId": "208",
@@ -62,7 +62,7 @@
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "path": "Leetcode/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "sha": "06504588bef9573c9f2ae379566de6f6983571c4",
-          "lastSyncedAt": "2026-08-13T17:38:18.409Z"
+          "lastSyncedAt": "2026-08-13T17:41:29.441Z"
         }
       ]
     },
