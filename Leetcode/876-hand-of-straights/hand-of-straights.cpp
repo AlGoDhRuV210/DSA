@@ -5,7 +5,6 @@ public:
         if (n % groupSize != 0)
             return false;
 
-        sort(hand.begin(), hand.end());
         priority_queue<pair<int, int>, vector<pair<int, int>>,
                        greater<pair<int, int>>>
             pq;
