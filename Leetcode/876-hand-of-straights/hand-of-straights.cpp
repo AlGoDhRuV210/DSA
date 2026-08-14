@@ -5,32 +5,27 @@ public:
         if (n % groupSize != 0)
             return false;
 
-        priority_queue<pair<int, int>, vector<pair<int, int>>,
-                       greater<pair<int, int>>>
-            pq;
+        // priority_queue<pair<int, int>, vector<pair<int, int>>,
+        //                greater<pair<int, int>>>
+        //     pq;
 
-        map<int, int> mpp;
+        map<int, int> pq;
         for (auto i : hand)
-            mpp[i]++;
-        for (auto i : mpp)
-            pq.push({i.first, i.second});
+            pq[i]++;
         while (!pq.empty()) {
-            if (pq.size() < groupSize)
-                return false;
-            int temp = groupSize;
-            vector<pair<int, int>> v;
-            int last = -1;
-            while (temp--) {
-                auto p1 = pq.top();
-                pq.pop();
-                if (last != -1 && p1.first != last + 1)
+
+            int start = pq.begin()->first;
+
+            for (int x = start; x < start + groupSize; x++) {
+
+                if (!pq.count(x))
                     return false;
-                if (p1.second > 1)
-                    v.push_back({p1.first, p1.second - 1});
-                last = p1.first;
+                pq[x]--;
+                if (pq[x] == 0)
+                    pq.erase(x);
+
             }
-            for (auto i : v)
-                pq.push(i);
+
         }
         return true;
     }
