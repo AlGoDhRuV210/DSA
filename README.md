@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 352 | 31 |
+| 353 | 31 |
 
 ---
 
@@ -26,11 +26,11 @@
 - [dsu](#dsu) (5)
 - [expression parsing](#expression-parsing) (2)
 - [flows](#flows) (1)
-- [games](#games) (10)
+- [games](#games) (11)
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (167)
+- [greedy](#greedy) (168)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (65)
 - [interactive](#interactive) (1)
@@ -42,7 +42,7 @@
 - [sortings](#sortings) (73)
 - [strings](#strings) (28)
 - [trees](#trees) (6)
-- [two pointers](#two-pointers) (36)
+- [two pointers](#two-pointers) (37)
 
 ---
 
@@ -431,6 +431,7 @@
 |---|---------|------------|----------|
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 | 1527B1 | [Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1527/B1%20-%20Palindrome%20Game%20(easy%20version)/solution.cpp) |
+| 1600E | [Array Game](https://codeforces.com/contest/1600/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1600/E%20-%20Array%20Game/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
@@ -506,6 +507,7 @@
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
+| 1600E | [Array Game](https://codeforces.com/contest/1600/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1600/E%20-%20Array%20Game/solution.cpp) |
 | 1601A | [Array Elimination](https://codeforces.com/contest/1601/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1601/A%20-%20Array%20Elimination/solution.cpp) |
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
@@ -1099,6 +1101,7 @@
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.cpp) |
 | 1470A | [Strange Birthday Party](https://codeforces.com/contest/1470/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1470/A%20-%20Strange%20Birthday%20Party/solution.cpp) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.cpp) |
+| 1600E | [Array Game](https://codeforces.com/contest/1600/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1600/E%20-%20Array%20Game/solution.cpp) |
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
