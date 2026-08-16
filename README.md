@@ -303,4 +303,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 <!---LeetCode Topics End-->
