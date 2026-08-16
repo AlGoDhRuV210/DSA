@@ -275,6 +275,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +322,7 @@
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,4 +339,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 <!---LeetCode Topics End-->
