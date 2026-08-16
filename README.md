@@ -315,8 +315,26 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
