@@ -274,11 +274,13 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -295,6 +297,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -343,4 +346,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1563-stone-game-v](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 <!---LeetCode Topics End-->
