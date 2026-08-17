@@ -274,6 +274,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1563-stone-game-v](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
@@ -293,6 +294,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [2029-stone-game-ix](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -310,6 +312,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -325,6 +328,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
@@ -349,6 +353,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -358,4 +363,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
