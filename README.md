@@ -318,11 +318,13 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0355-design-twitter](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
@@ -341,13 +343,19 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3478-choose-k-elements-with-maximum-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
