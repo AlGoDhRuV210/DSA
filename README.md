@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 15 |
+| 8 | 15 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -81,6 +81,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 575D | [Tablecity](https://codeforces.com/contest/575/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/575/D%20-%20Tablecity/solution.cpp) |
+| 852G | [Bathroom terminal](https://codeforces.com/contest/852/problem/G) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/852/G%20-%20Bathroom%20terminal/solution.cpp) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 
