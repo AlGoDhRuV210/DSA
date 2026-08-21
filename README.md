@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 16 |
+| 15 | 16 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (6)
-- [math](#math) (3)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -84,6 +84,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
 | 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.cpp) |
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
@@ -108,6 +109,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.cpp) |
 | 2128C | [Leftmost Below](https://codeforces.com/contest/2128/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2128/C%20-%20Leftmost%20Below/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
