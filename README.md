@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 19 |
+| 27 | 19 |
 
 ---
 
@@ -16,18 +16,18 @@
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [data structures](#data-structures) (5)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (6)
 - [dp](#dp) (4)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (7)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (3)
 - [trees](#trees) (5)
 - [two pointers](#two-pointers) (2)
@@ -65,6 +65,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
 | 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
@@ -112,6 +113,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/891/A%20-%20Pride/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
@@ -138,6 +140,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 575D | [Tablecity](https://codeforces.com/contest/575/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/575/D%20-%20Tablecity/solution.cpp) |
 | 852G | [Bathroom terminal](https://codeforces.com/contest/852/problem/G) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/852/G%20-%20Bathroom%20terminal/solution.cpp) |
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/976/C%20-%20Nested%20Segments/solution.cpp) |
@@ -179,6 +182,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/976/C%20-%20Nested%20Segments/solution.cpp) |
