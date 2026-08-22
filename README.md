@@ -163,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0790-domino-and-tromino-tiling](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0790-domino-and-tromino-tiling/) | Medium |
 <!---LeetCode Topics End-->
