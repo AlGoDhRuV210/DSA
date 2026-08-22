@@ -6,22 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 17 |
+| 20 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (3)
+- [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (5)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (2)
@@ -39,6 +40,12 @@
 | 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1084C | [The Fair Nut and String](https://codeforces.com/contest/1084/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1084/C%20-%20The%20Fair%20Nut%20and%20String/solution.cpp) |
 
 ### constructive algorithms
 
@@ -69,6 +76,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1084C | [The Fair Nut and String](https://codeforces.com/contest/1084/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1084/C%20-%20The%20Fair%20Nut%20and%20String/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
 
 ### dsu
@@ -114,6 +122,7 @@
 |---|---------|------------|----------|
 | 575D | [Tablecity](https://codeforces.com/contest/575/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/575/D%20-%20Tablecity/solution.cpp) |
 | 852G | [Bathroom terminal](https://codeforces.com/contest/852/problem/G) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/852/G%20-%20Bathroom%20terminal/solution.cpp) |
+| 1084C | [The Fair Nut and String](https://codeforces.com/contest/1084/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1084/C%20-%20The%20Fair%20Nut%20and%20String/solution.cpp) |
 | 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.cpp) |
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.cpp) |
