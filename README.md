@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 19 |
+| 30 | 19 |
 
 ---
 
@@ -23,12 +23,12 @@
 - [graphs](#graphs) (5)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (8)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (6)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [trees](#trees) (5)
 - [two pointers](#two-pointers) (2)
 
@@ -152,6 +152,7 @@
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
+| 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ### math
@@ -201,6 +202,7 @@
 |---|---------|------------|----------|
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.cpp) |
+| 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ### trees
