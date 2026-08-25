@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 19 |
+| 32 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (4)
-- [brute force](#brute-force) (4)
+- [binary search](#binary-search) (5)
+- [brute force](#brute-force) (5)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [data structures](#data-structures) (7)
+- [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (6)
 - [dp](#dp) (5)
 - [dsu](#dsu) (2)
@@ -30,7 +30,7 @@
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
 - [trees](#trees) (5)
-- [two pointers](#two-pointers) (2)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -40,6 +40,7 @@
 |---|---------|------------|----------|
 | 1323B | [Count Subrectangles](https://codeforces.com/contest/1323/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1323/B%20-%20Count%20Subrectangles/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
+| 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
@@ -48,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/891/A%20-%20Pride/solution.cpp) |
+| 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1907/E%20-%20Good%20Triples/solution.cpp) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
@@ -76,6 +78,7 @@
 | 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
+| 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 
 ### dfs and similar
@@ -224,6 +227,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
+| 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ---
