@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/1856/problem/C" target="_blank" rel="noopener noreferrer">1856C — To Become Max</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1600 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1856C](https://codeforces.com/contest/1856/problem/C) |
+
+## Topics
+`binary search` `brute force` `data structures` `dp`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. To Become Max</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given an array of integers $$$a$$$ of length $$$n$$$.</p><p>In one operation you: </p><ul> <li> Choose an index $$$i$$$ such that $$$1 \le i \le n - 1$$$ and $$$a_i \le a_{i + 1}$$$. </li><li> Increase $$$a_i$$$ by $$$1$$$. </li></ul><p>Find the maximum possible value of $$$\max(a_1, a_2, \ldots a_n)$$$ that you can get after performing this operation at most $$$k$$$ times.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line of input contains a single integer $$$t$$$ ($$$1 \le t \le 100$$$) — the number of test cases. The description of the test cases follows.</p><p>The first line of each test case contains two integers $$$n$$$ and $$$k$$$ ($$$2 \le n \le 1000$$$, $$$1 \le k \le 10^{8}$$$) — the length of the array $$$a$$$ and the maximum number of operations that can be performed.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1,a_2,\ldots,a_n$$$ ($$$1 \le a_i \le 10^{8}$$$) — the elements of the array $$$a$$$.</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$1000$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case output a single integer — the maximum possible maximum of the array after performing at most $$$k$$$ operations.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0022939525499296587" id="id0011832533169611437" class="input-output-copier">Copy</div></div><pre id="id0022939525499296587"><div class="test-example-line test-example-line-even test-example-line-0">6</div><div class="test-example-line test-example-line-odd test-example-line-1">3 4</div><div class="test-example-line test-example-line-odd test-example-line-1">1 3 3</div><div class="test-example-line test-example-line-even test-example-line-2">5 6</div><div class="test-example-line test-example-line-even test-example-line-2">1 3 4 5 1</div><div class="test-example-line test-example-line-odd test-example-line-3">4 13</div><div class="test-example-line test-example-line-odd test-example-line-3">1 1 3 179</div><div class="test-example-line test-example-line-even test-example-line-4">5 3</div><div class="test-example-line test-example-line-even test-example-line-4">4 3 2 2 2</div><div class="test-example-line test-example-line-odd test-example-line-5">5 6</div><div class="test-example-line test-example-line-odd test-example-line-5">6 5 4 1 5</div><div class="test-example-line test-example-line-even test-example-line-6">2 17</div><div class="test-example-line test-example-line-even test-example-line-6">3 5</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007689464151316817" id="id007247497537216551" class="input-output-copier">Copy</div></div><pre id="id007689464151316817">4
+7
+179
+5
+7
+6
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, one possible optimal sequence of operations is: $$$[\color{red}{1}, 3, 3] \rightarrow [2, \color{red}{3}, 3] \rightarrow [\color{red}{2}, 4, 3] \rightarrow [\color{red}{3}, 4, 3] \rightarrow [4, 4, 3]$$$.</p><p>In the second test case, one possible optimal sequence of operations is: $$$[1, \color{red}{3}, 4, 5, 1] \rightarrow [1, \color{red}{4}, 4, 5, 1] \rightarrow [1, 5, \color{red}{4}, 5, 1] \rightarrow [1, 5, \color{red}{5}, 5, 1] \rightarrow [1, \color{red}{5}, 6, 5, 1] \rightarrow [1, \color{red}{6}, 6, 5, 1] \rightarrow [1, 7, 6, 5, 1]$$$.</p></div>
