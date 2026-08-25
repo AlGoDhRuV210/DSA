@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 19 |
+| 36 | 19 |
 
 ---
 
@@ -23,8 +23,8 @@
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (12)
-- [math](#math) (10)
+- [implementation](#implementation) (13)
+- [math](#math) (11)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (6)
@@ -166,6 +166,7 @@
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
+| 1984B | [Large Addition](https://codeforces.com/contest/1984/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1984/B%20-%20Large%20Addition/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ### math
@@ -179,6 +180,7 @@
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.cpp) |
 | 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
+| 1984B | [Large Addition](https://codeforces.com/contest/1984/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1984/B%20-%20Large%20Addition/solution.cpp) |
 | 2093C | [Simple Repetition](https://codeforces.com/contest/2093/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2093/C%20-%20Simple%20Repetition/solution.cpp) |
 | 2128C | [Leftmost Below](https://codeforces.com/contest/2128/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2128/C%20-%20Leftmost%20Below/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
