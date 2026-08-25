@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 19 |
+| 34 | 19 |
 
 ---
 
@@ -16,15 +16,15 @@
 - [brute force](#brute-force) (5)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [data structures](#data-structures) (8)
+- [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (7)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [dsu](#dsu) (3)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (11)
-- [math](#math) (8)
+- [implementation](#implementation) (12)
+- [math](#math) (9)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (6)
@@ -78,6 +78,7 @@
 | 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
+| 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 
@@ -101,6 +102,7 @@
 | 982C | [Cut 'em all!](https://codeforces.com/contest/982/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/982/C%20-%20Cut%20'em%20all!/solution.cpp) |
 | 1084C | [The Fair Nut and String](https://codeforces.com/contest/1084/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1084/C%20-%20The%20Fair%20Nut%20and%20String/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
+| 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 
 ### dsu
@@ -162,6 +164,7 @@
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
+| 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
@@ -174,6 +177,7 @@
 | 1139C | [Edgy Trees](https://codeforces.com/contest/1139/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1139/C%20-%20Edgy%20Trees/solution.cpp) |
 | 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.cpp) |
+| 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 | 2128C | [Leftmost Below](https://codeforces.com/contest/2128/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2128/C%20-%20Leftmost%20Below/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
