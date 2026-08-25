@@ -232,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,4 +257,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 <!---LeetCode Topics End-->
