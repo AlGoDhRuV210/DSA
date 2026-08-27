@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 20 |
+| 41 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (6)
@@ -34,6 +35,12 @@
 - [two pointers](#two-pointers) (4)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2256D | [A Ribbon for Tomorrow](https://codeforces.com/contest/2256/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2256/D%20-%20A%20Ribbon%20for%20Tomorrow/solution.cpp) |
 
 ### binary search
 
