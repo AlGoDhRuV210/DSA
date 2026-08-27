@@ -280,11 +280,13 @@
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +296,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
