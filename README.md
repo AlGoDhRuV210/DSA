@@ -278,13 +278,28 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
