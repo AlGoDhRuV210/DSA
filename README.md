@@ -282,6 +282,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
