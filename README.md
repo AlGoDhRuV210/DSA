@@ -283,6 +283,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [2561-rearranging-fruits](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/2561-rearranging-fruits/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,12 +292,14 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [2561-rearranging-fruits](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/2561-rearranging-fruits/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [2561-rearranging-fruits](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/2561-rearranging-fruits/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,4 +313,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2561-rearranging-fruits](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/2561-rearranging-fruits/) | Hard |
 <!---LeetCode Topics End-->
