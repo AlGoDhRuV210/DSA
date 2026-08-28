@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 21 |
+| 43 | 21 |
 
 ---
 
@@ -15,22 +15,22 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (4)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (7)
 - [dp](#dp) (6)
 - [dsu](#dsu) (3)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (14)
 - [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (3)
-- [sortings](#sortings) (6)
-- [strings](#strings) (4)
+- [sortings](#sortings) (7)
+- [strings](#strings) (5)
 - [trees](#trees) (5)
 - [two pointers](#two-pointers) (4)
 
@@ -63,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 891A | [Pride](https://codeforces.com/contest/891/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/891/A%20-%20Pride/solution.cpp) |
+| 1781C | [Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1781/C%20-%20Equal%20Frequencies/solution.cpp) |
 | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1843/E%20-%20Tracking%20Segments/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1882B | [Sets and Union](https://codeforces.com/contest/1882/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1882/B%20-%20Sets%20and%20Union/solution.cpp) |
@@ -84,6 +85,7 @@
 |---|---------|------------|----------|
 | 575D | [Tablecity](https://codeforces.com/contest/575/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/575/D%20-%20Tablecity/solution.cpp) |
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
+| 1781C | [Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1781/C%20-%20Equal%20Frequencies/solution.cpp) |
 | 1798D | [Shocking Arrangement](https://codeforces.com/contest/1798/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1798/D%20-%20Shocking%20Arrangement/solution.cpp) |
 | 1882B | [Sets and Union](https://codeforces.com/contest/1882/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1882/B%20-%20Sets%20and%20Union/solution.cpp) |
 
@@ -161,6 +163,7 @@
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
+| 1781C | [Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1781/C%20-%20Equal%20Frequencies/solution.cpp) |
 | 1798D | [Shocking Arrangement](https://codeforces.com/contest/1798/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1798/D%20-%20Shocking%20Arrangement/solution.cpp) |
 | 1882B | [Sets and Union](https://codeforces.com/contest/1882/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1882/B%20-%20Sets%20and%20Union/solution.cpp) |
 | 2000D | [Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2000/D%20-%20Right%20Left%20Wrong/solution.cpp) |
@@ -186,6 +189,7 @@
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.cpp) |
 | 1416A | [k-Amazing Numbers](https://codeforces.com/contest/1416/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1416/A%20-%20k-Amazing%20Numbers/solution.cpp) |
+| 1781C | [Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1781/C%20-%20Equal%20Frequencies/solution.cpp) |
 | 1829G | [Hits Different](https://codeforces.com/contest/1829/problem/G) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1829/G%20-%20Hits%20Different/solution.cpp) |
 | 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
 | 1984B | [Large Addition](https://codeforces.com/contest/1984/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1984/B%20-%20Large%20Addition/solution.cpp) |
@@ -240,6 +244,7 @@
 | 976C | [Nested Segments](https://codeforces.com/contest/976/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/976/C%20-%20Nested%20Segments/solution.cpp) |
 | 1101C | [Division and Union](https://codeforces.com/contest/1101/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1101/C%20-%20Division%20and%20Union/solution.cpp) |
 | 1466D | [13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1466/D%20-%2013th%20Labour%20of%20Heracles/solution.cpp) |
+| 1781C | [Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1781/C%20-%20Equal%20Frequencies/solution.cpp) |
 
 ### strings
 
@@ -247,6 +252,7 @@
 |---|---------|------------|----------|
 | 1332C | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1332/C%20-%20K-Complete%20Word/solution.cpp) |
 | 1404A | [Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1404/A%20-%20Balanced%20Bitstring/solution.cpp) |
+| 1781C | [Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1781/C%20-%20Equal%20Frequencies/solution.cpp) |
 | 1886C | [Decreasing String](https://codeforces.com/contest/1886/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1886/C%20-%20Decreasing%20String/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
@@ -272,49 +278,3 @@
 ---
 
 > Generated by [CFPusher — Codeforces to GitHub](https://github.com/SarJ2004/cf-pusher)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
-| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
-| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
-| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
-| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
-| [2561-rearranging-fruits](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/2561-rearranging-fruits/) | Hard |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
-| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
-| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
-| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
-| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
-| [2561-rearranging-fruits](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/2561-rearranging-fruits/) | Hard |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
-| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
-| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
-| [2561-rearranging-fruits](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/2561-rearranging-fruits/) | Hard |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
-| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
-## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
-## Polygons
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0976-largest-perimeter-triangle](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2561-rearranging-fruits](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/2561-rearranging-fruits/) | Hard |
-<!---LeetCode Topics End-->
