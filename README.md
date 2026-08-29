@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 21 |
+| 45 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
@@ -42,6 +42,7 @@
 |---|---------|------------|----------|
 | 2256D | [A Ribbon for Tomorrow](https://codeforces.com/contest/2256/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2256/D%20-%20A%20Ribbon%20for%20Tomorrow/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
+| 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 
 ### binary search
 
