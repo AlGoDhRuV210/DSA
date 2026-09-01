@@ -1,22 +1,186 @@
-<h2><a href="https://codeforces.com/contest/1676/problem/A" target="_blank" rel="noopener noreferrer">1676A — Lucky?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 800 |
-| **Language** | C++23 (GCC 14-64, msys2) |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 1676A](https://codeforces.com/contest/1676/problem/A) |
-
-## Topics
-`implementation`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">A. Lucky?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>A ticket is a string consisting of six digits. A ticket is considered lucky if the sum of the first three digits is equal to the sum of the last three digits. Given a ticket, output if it is lucky or not. Note that a ticket can have leading zeroes.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains an integer $$$t$$$ ($$$1 \leq t \leq 10^3$$$) — the number of testcases.</p><p>The description of each test consists of one line containing one string consisting of six digits.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output $$$t$$$ lines, each of which contains the answer to the corresponding test case. Output "<span class="tex-font-style-tt">YES</span>" if the given ticket is lucky, and "<span class="tex-font-style-tt">NO</span>" otherwise.</p><p>You can output the answer in any case (for example, the strings "<span class="tex-font-style-tt">yEs</span>", "<span class="tex-font-style-tt">yes</span>", "<span class="tex-font-style-tt">Yes</span>" and "<span class="tex-font-style-tt">YES</span>" will be recognized as a positive answer).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003626789236189504" id="id0040557876499083123" class="input-output-copier">Copy</div></div><pre id="id003626789236189504"><div class="test-example-line test-example-line-even test-example-line-0">5</div><div class="test-example-line test-example-line-odd test-example-line-1">213132</div><div class="test-example-line test-example-line-even test-example-line-2">973894</div><div class="test-example-line test-example-line-odd test-example-line-3">045207</div><div class="test-example-line test-example-line-even test-example-line-4">000000</div><div class="test-example-line test-example-line-odd test-example-line-5">055776</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004096920478396736" id="id007783399142007487" class="input-output-copier">Copy</div></div><pre id="id004096920478396736">YES
-NO
-YES
-YES
-NO
-</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, the sum of the first three digits is $$$2 + 1 + 3 = 6$$$ and the sum of the last three digits is $$$1 + 3 + 2 = 6$$$, they are equal so the answer is "<span class="tex-font-style-tt">YES</span>".</p><p>In the second test case, the sum of the first three digits is $$$9 + 7 + 3 = 19$$$ and the sum of the last three digits is $$$8 + 9 + 4 = 21$$$, they are not equal so the answer is "<span class="tex-font-style-tt">NO</span>".</p><p>In the third test case, the sum of the first three digits is $$$0 + 4 + 5 = 9$$$ and the sum of the last three digits is $$$2 + 0 + 7 = 9$$$, they are equal so the answer is "<span class="tex-font-style-tt">YES</span>".</p></div>
+#define _USE_MATH_DEFINES
+#include <iostream>
+using namespace std;
+ 
+#include <iomanip>
+#include <vector>
+#include <algorithm>
+#include <climits>
+#include <cmath>
+#include <cstring>
+#include <string>
+#include <map>
+#include <unordered_map>
+#include <set>
+#include <unordered_set>
+#include <queue>
+#include <stack>
+#include <deque>
+#include <numeric>
+#include <limits>
+#include <functional>
+#include <bitset>
+#include <tuple>
+#include <complex>
+#include <math.h>
+#define f(i, n) for (int i = 0; i < n; i++)
+#define vi vector<long long>
+#define pii pair<int, int>
+#define vpii vector<pair<int, int>>
+#define mii map<int, int>
+#define mci map<char, int>
+#define umci unordered_map<char, int>
+#define umii unordered_map<int, int>
+#define si set<int>
+#define pb push_back
+#define all(x) x.begin(), x.end()
+#define rev(x) reverse(all(x))
+#define asort(x) sort(all(x))
+#define dsort(x) sort(all(x), greater<>())
+#define int long long
+#define double long double
+#define endl '
+'
+#define coutyes cout << "YES" << endl
+#define coutno cout << "NO" << endl
+ 
+long long gcd(long long a, long long b)
+{
+    while (b)
+    {
+        long long temp = b;
+        b = a % b;
+        a = temp;
+    }
+    return a;
+}
+long long lcm(long long a, long long b)
+{
+    return (a / gcd(a, b)) * b;
+}
+const int MOD1 = 1000000007;
+ 
+class DisjointSet
+{
+private:
+    vector<int> parent, rank, size;
+ 
+public:
+    DisjointSet(int n)
+    {
+        parent.resize(n + 1);
+        rank.assign(n + 1, 0);
+        size.assign(n + 1, 1);
+        for (int i = 0; i <= n; i++)
+            parent[i] = i;
+    }
+ 
+    int findParent(int node)
+    {
+        if (parent[node] == node)
+            return node;
+        return parent[node] = findParent(parent[node]);
+    }
+ 
+    void unionByRank(int u, int v)
+    {
+        u = findParent(u);
+        v = findParent(v);
+        if (u == v)
+            return;
+        if (rank[u] < rank[v])
+            parent[u] = v;
+        else if (rank[u] > rank[v])
+            parent[v] = u;
+        else
+        {
+            parent[v] = u;
+            rank[u]++;
+        }
+    }
+ 
+    void unionBySize(int u, int v)
+    {
+        u = findParent(u);
+        v = findParent(v);
+        if (u == v)
+            return;
+        if (size[u] < size[v])
+        {
+            parent[u] = v;
+            size[v] += size[u];
+        }
+        else
+        {
+            parent[v] = u;
+            size[u] += size[v];
+        }
+    }
+};
+ 
+const int MOD = 998244353;
+const int MAXN = 300000;
+long long fact[MAXN + 1];
+long long invFact[MAXN + 1];
+long long power(long long a, long long b)
+{
+    long long res = 1;
+    while (b)
+    {
+        if (b & 1)
+            res = res * a % MOD;
+        a = a * a % MOD;
+        b >>= 1;
+    }
+    return res;
+}
+long long inverse(long long a)
+{
+    return power(a, MOD - 2);
+}
+void initFactorials()
+{
+    fact[0] = 1;
+    for (int i = 1; i <= MAXN; i++)
+        fact[i] = fact[i - 1] * i % MOD;
+    invFact[MAXN] = inverse(fact[MAXN]);
+    for (int i = MAXN; i >= 1; i--)
+        invFact[i - 1] = invFact[i] * i % MOD;
+}
+long long nCr(int n, int r)
+{
+    if (r < 0 || r > n)
+        return 0;
+    return fact[n] * invFact[r] % MOD * invFact[n - r] % MOD;
+}
+long long nPr(int n, int r)
+{
+    if (r < 0 || r > n)
+        return 0;
+    return fact[n] * invFact[n - r] % MOD;
+}
+void solve()
+{
+    string s;
+    cin >> s;
+    int s1 = 0, s2 = 0;
+    for (int i = 0; i < 3; i++)
+        s1 += s[i] - '0';
+    for (int i = 3; i < 6; i++)
+        s2 += s[i] - '0';
+    if(s1==s2) coutyes;
+    else coutno;
+}
+ 
+int32_t main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+ 
+    initFactorials();
+    int t;
+    cin >> t;
+    while (t--)
+        solve();
+    return 0;
+}
