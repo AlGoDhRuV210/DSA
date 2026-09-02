@@ -296,5 +296,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0556-next-greater-element-iii](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0556-next-greater-element-iii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0556-next-greater-element-iii](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0556-next-greater-element-iii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0556-next-greater-element-iii](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0556-next-greater-element-iii/) | Medium |
 <!---LeetCode Topics End-->
