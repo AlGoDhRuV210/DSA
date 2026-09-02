@@ -292,6 +292,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -306,4 +307,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0556-next-greater-element-iii](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/0556-next-greater-element-iii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0041-first-missing-positive](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 <!---LeetCode Topics End-->
