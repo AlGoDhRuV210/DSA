@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 21 |
+| 53 | 21 |
 
 ---
 
@@ -26,8 +26,8 @@
 - [greedy](#greedy) (23)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (19)
-- [math](#math) (16)
-- [number theory](#number-theory) (6)
+- [math](#math) (17)
+- [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (7)
 - [strings](#strings) (6)
@@ -224,6 +224,7 @@
 | 1984B | [Large Addition](https://codeforces.com/contest/1984/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1984/B%20-%20Large%20Addition/solution.cpp) |
 | 2093C | [Simple Repetition](https://codeforces.com/contest/2093/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2093/C%20-%20Simple%20Repetition/solution.cpp) |
 | 2128C | [Leftmost Below](https://codeforces.com/contest/2128/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2128/C%20-%20Leftmost%20Below/solution.cpp) |
+| 2131C | [Make it Equal](https://codeforces.com/contest/2131/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2131/C%20-%20Make%20it%20Equal/solution.cpp) |
 | 2255B | [A Ribbon for Tomorrow](https://codeforces.com/contest/2255/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2255/B%20-%20A%20Ribbon%20for%20Tomorrow/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
@@ -236,6 +237,7 @@
 | 1907E | [Good Triples](https://codeforces.com/contest/1907/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1907/E%20-%20Good%20Triples/solution.cpp) |
 | 1920C | [Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/1920/C%20-%20Partitioning%20the%20Array/solution.cpp) |
 | 2093C | [Simple Repetition](https://codeforces.com/contest/2093/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2093/C%20-%20Simple%20Repetition/solution.cpp) |
+| 2131C | [Make it Equal](https://codeforces.com/contest/2131/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2131/C%20-%20Make%20it%20Equal/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AlGoDhRuV210/DSA/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### shortest paths
