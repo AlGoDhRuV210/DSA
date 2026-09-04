@@ -296,8 +296,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/AlGoDhRuV210/DSA/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
